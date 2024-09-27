@@ -1,1 +1,2 @@
 github
+a merge in git intigrates changes from one branch into another
